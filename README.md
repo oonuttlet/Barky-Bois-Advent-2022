@@ -1,1 +1,1 @@
-"# Barky-Bois-Advent-2022" 
+Barky Bois Advent of Code 2022
